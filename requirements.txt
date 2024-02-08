@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+openai
+youtube-transcript-api
+pinecone-client
+tiktoken
+streamlit
+faiss-cpu
+yt_dlp
+pydub
+librosa
+ffmpeg-python
